@@ -1,0 +1,4 @@
+1. Visual Studio Code
+2. sublime text
+3. Mysql
+4. Dùng Here Maps ?? thay th? google map vì google có thu phí.

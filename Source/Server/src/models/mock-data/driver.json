@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nguyen Van A",
+    "status": "online",
+    "phone": "01023456789",
+    "password": "123456",
+    "lat": 10.755068913251527,
+    "lng": 106.66259008598331
+  },
+  {
+    "name": "Trinh Van D",
+    "status": "online",
+    "phone": "01123456789",
+    "password": "123456",
+    "lat": 10.760928990374754,
+    "lng": 106.66843856818389
+  },
+  {
+    "name": "Trinh Van D Busy",
+    "status": "busy",
+    "phone": "01223456789",
+    "password": "123456",
+    "lat": 10.760928990374754,
+    "lng": 106.66843856818389
+  }
+]
